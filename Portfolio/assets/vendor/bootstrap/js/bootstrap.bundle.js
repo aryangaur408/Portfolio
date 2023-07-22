@@ -1,8 +1,3 @@
-/*!
-  * Bootstrap v4.6.0 (https://getbootstrap.com/)
-  * Copyright 2011-2021 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
-  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
-  */
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('jquery')) :
   typeof define === 'function' && define.amd ? define(['exports', 'jquery'], factory) :
@@ -53,21 +48,11 @@
     subClass.__proto__ = superClass;
   }
 
-  /**
-   * --------------------------------------------------------------------------
-   * Bootstrap (v4.6.0): util.js
-   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
-   * --------------------------------------------------------------------------
-   */
-  /**
-   * ------------------------------------------------------------------------
-   * Private TransitionEnd Helpers
-   * ------------------------------------------------------------------------
-   */
+ 
 
   var TRANSITION_END = 'transitionend';
   var MAX_UID = 1000000;
-  var MILLISECONDS_MULTIPLIER = 1000; // Shoutout AngusCroll (https://goo.gl/pxwQGp)
+  var MILLISECONDS_MULTIPLIER = 1000; 
 
   function toType(obj) {
     if (obj === null || typeof obj === 'undefined') {
@@ -83,7 +68,7 @@
       delegateType: TRANSITION_END,
       handle: function handle(event) {
         if ($__default['default'](event.target).is(this)) {
-          return event.handleObj.handler.apply(this, arguments); // eslint-disable-line prefer-rest-params
+          return event.handleObj.handler.apply(this, arguments); 
         }
 
         return undefined;
@@ -110,18 +95,14 @@
     $__default['default'].fn.emulateTransitionEnd = transitionEndEmulator;
     $__default['default'].event.special[Util.TRANSITION_END] = getSpecialTransitionEndEvent();
   }
-  /**
-   * --------------------------------------------------------------------------
-   * Public Util Api
-   * --------------------------------------------------------------------------
-   */
+  
 
 
   var Util = {
     TRANSITION_END: 'bsTransitionEnd',
     getUID: function getUID(prefix) {
       do {
-        prefix += ~~(Math.random() * MAX_UID); // "~~" acts like a faster Math.floor() here
+        prefix += ~~(Math.random() * MAX_UID); 
       } while (document.getElementById(prefix));
 
       return prefix;
@@ -143,7 +124,7 @@
     getTransitionDurationFromElement: function getTransitionDurationFromElement(element) {
       if (!element) {
         return 0;
-      } // Get transition-duration of the element
+      } 
 
 
       var transitionDuration = $__default['default'](element).css('transition-duration');
@@ -153,7 +134,7 @@
 
       if (!floatTransitionDuration && !floatTransitionDelay) {
         return 0;
-      } // If multiple durations are defined, take the first
+      } 
 
 
       transitionDuration = transitionDuration.split(',')[0];
@@ -7042,4 +7023,4 @@
   Object.defineProperty(exports, '__esModule', { value: true });
 
 })));
-//# sourceMappingURL=bootstrap.bundle.js.map
+
