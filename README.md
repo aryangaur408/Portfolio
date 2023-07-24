@@ -31,11 +31,7 @@ Check out the live demo [here](https://prtfoilo.netlify.app/).
 
 ## Installation
 
-Simply clone the repository:
-
-```
-git clone https://github.com/aryangaur408/Portfolio-website.git
-```
+Simply clone the repository:  `git clone https://github.com/aryangaur408/Portfolio`
 
 Then, open the `index.html` file in your web browser to view the portfolio.
 
