@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![Portfolio Website](link-to-screenshot.png) (replace "link-to-screenshot.png" with the actual screenshot URL if you have one)
+![Portfolio Website]("C:\Users\Aryan\Desktop\Project\Portfolio\assets\img\privew.png") 
 
 Welcome to my portfolio website repository! This project showcases my skills, projects, and experiences in web development and Data Analysis.
 
