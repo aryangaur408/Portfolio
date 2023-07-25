@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![Portfolio Website]("Portfolio\assets\img\privew.png") 
+![Portfolio Website]("https://prtfoilo.netlify.app/") 
 
 Welcome to my portfolio website repository! This project showcases my skills, projects, and experiences in web development and Data Analysis.
 
