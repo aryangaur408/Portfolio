@@ -1,6 +1,6 @@
 # Portfolio Website
 
-![Portfolio Website]("C:\Users\Aryan\Desktop\Project\Portfolio\assets\img\privew.png") 
+![Portfolio Website]("Portfolio\assets\img\privew.png") 
 
 Welcome to my portfolio website repository! This project showcases my skills, projects, and experiences in web development and Data Analysis.
 
