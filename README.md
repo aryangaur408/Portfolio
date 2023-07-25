@@ -1,6 +1,5 @@
 # Portfolio Website
 
-![Portfolio Website]("https://prtfoilo.netlify.app/") 
 
 Welcome to my portfolio website repository! This project showcases my skills, projects, and experiences in web development and Data Analysis.
 
@@ -21,9 +20,6 @@ Welcome to my portfolio website repository! This project showcases my skills, pr
 - Bootstrap
 - PHP
 
-## Preview
-
-![Portfolio Preview](link-to-preview.png) (replace "link-to-preview.png" with the actual preview URL if you have one)
 
 ## Live Demo
 
@@ -49,6 +45,10 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-You can reach me via email at aryangaur408@gmail.com or connect with me on LinkedIn [here](https://www.linkedin.com/in/aryan-singh-gaur-91a539237).
+You can reach me via: 
+
+- Name- ![Aryan Singh Gaur](https://prtfoilo.netlify.app/)
+- Email- aryangaur408@gmail.com
+- LinkedIn- https://www.linkedin.com/in/aryan-singh-gaur-91a539237
 
 Thank you for visiting my portfolio website! I hope you enjoy exploring my work.
