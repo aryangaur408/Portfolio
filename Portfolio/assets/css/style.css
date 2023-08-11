@@ -465,9 +465,7 @@ section .container {
 # Resume
 --------------------------------------------------------------*/
 .res {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  text-align:center;
 }
 
 /*--------------------------------------------------------------
