@@ -135,7 +135,7 @@ h1, h2, h3, h4, h5, h6 {
 --------------------------------------------------------------*/
 /* Desktop Navigation */
 .nav-menu {
-  margin-top: -450px;
+  margin-top: -400px;
   margin-left: 57%;
 }
 
@@ -466,13 +466,6 @@ section .container {
 --------------------------------------------------------------*/
 .res {
   text-align:center;
-}
-
-.row .a {
-  width: 300px;
-  border: 15px solid green;
-  padding: 50px;
-  margin: 20px;
 }
 
 /*--------------------------------------------------------------
