@@ -468,6 +468,13 @@ section .container {
   text-align:center;
 }
 
+.row .a {
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
+
 /*--------------------------------------------------------------
 # Testimonials
 --------------------------------------------------------------*/
