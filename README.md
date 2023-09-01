@@ -3,6 +3,17 @@
 
 Welcome to my portfolio website repository! This project showcases my skills, projects, and experiences in web development and Data Analysis.
 
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologiesused)
+- [Live Demo](#livedemo)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
 ## Features
 
 - Responsive design with Bootstrap framework.
